@@ -4,49 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="131bc733-976c-4160-b6c6-919047f511b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Public_r.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertingFilePutHere/Dark Choco Vanilla and Coffee Smoothie.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertingFilePutHere/Easy Nutella Frappe.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertingFilePutHere/French Vanilla Mocha.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertingFilePutHere/Frozen Chocolate Macadamia Coffee.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertingFilePutHere/Gingerbread Spiced Holiday Coffee.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertingFilePutHere/Homemade Iced Cafe Latte with Maple.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertingFilePutHere/Hot Mochaccino.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertingFilePutHere/Iced Coffee Almond Joy.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertingFilePutHere/Iced Coffee with Pumpkin Spice.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertingFilePutHere/Iced Hazelnut Coffee.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertingFilePutHere/Iced Macadamia Mocha.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertingFilePutHere/Iced Vietnamese Coffee.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertingFilePutHere/Irish Cream Coffee.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertingFilePutHere/Low-Fat Mocha Cream Shake.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertingFilePutHere/Malted Cappuccino.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertingFilePutHere/Minty Cafe Mocha.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertingFilePutHere/Mocha Caramel Frappe.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertingFilePutHere/Orange Kissed Black Coffee.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertingFilePutHere/Peppermint Black Coffee.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertingFilePutHere/Peppermint Mocha Frappe.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertingFilePutHere/Raspberry Choco Coffee Shake.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertingFilePutHere/Raspberry Cream Coffee.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertingFilePutHere/Simple Iced Cafe Latte.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertingFilePutHere/Spiced Cafe Latte.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertingFilePutHere/Spiced Irish Cream Coffee Frappe.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertingFilePutHere/Spiced Mocha Shake.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertingFilePutHere/Sugar-Free Iced Almond Coffee.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertingFilePutHere/Sweet Almond Coffee.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertingFilePutHere/Sweet Black Coffee Mexican-Style.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B/Banana Coffee and Oat Smoothie.webp" beforeDir="false" afterPath="$PROJECT_DIR$/B/Banana Coffee and Oat Smoothie.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B/Black Amaretto Coffee.webp" beforeDir="false" afterPath="$PROJECT_DIR$/B/Black Amaretto Coffee.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B/Brown Mocha Almond.webp" beforeDir="false" afterPath="$PROJECT_DIR$/B/Brown Mocha Almond.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C/Cafe Au Lait with Honey.webp" beforeDir="false" afterPath="$PROJECT_DIR$/C/Cafe Au Lait with Honey.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C/Cafe Con Leche.webp" beforeDir="false" afterPath="$PROJECT_DIR$/C/Cafe Con Leche.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C/Cheesy Quinoa Patties with Chives.webp" beforeDir="false" afterPath="$PROJECT_DIR$/C/Cheesy Quinoa Patties with Chives.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C/Creamed Belgian Coffee.webp" beforeDir="false" afterPath="$PROJECT_DIR$/C/Creamed Belgian Coffee.webp" afterDir="false" />
-    </list>
+    <list default="true" id="131bc733-976c-4160-b6c6-919047f511b9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
